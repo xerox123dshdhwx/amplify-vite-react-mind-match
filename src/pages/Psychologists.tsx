@@ -237,7 +237,7 @@ export const Psychologists = () => {
         <div className="mt-12 text-center">
           <Card className="p-8 bg-gradient-primary text-white">
             <CardContent className="space-y-4 p-0">
-              <h3 className="text-2xl font-bold">Don't see the perfect match?</h3>
+              <h3 className="text-2xl font-bold">Don&apos;t see the perfect match?</h3>
               <p className="text-white/90">
                 Our matching algorithm learns from your preferences. Take the survey again or contact our team for personalized assistance.
               </p>

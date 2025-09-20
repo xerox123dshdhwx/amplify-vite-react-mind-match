@@ -159,7 +159,7 @@ export const Landing = () => {
                       <Star key={i} className="h-5 w-5 text-yellow-400 fill-current" />
                     ))}
                   </div>
-                  <p className="text-muted-foreground italic">"{testimonial.content}"</p>
+                  <p className="text-muted-foreground italic">&quot;{testimonial.content}&quot;</p>
                   <div className="space-y-1">
                     <p className="font-semibold text-foreground">{testimonial.name}</p>
                     <p className="text-sm text-muted-foreground">{testimonial.role}</p>
